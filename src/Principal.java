@@ -6,6 +6,8 @@ public class Principal {
 
 		
 		//Esta es la clase principal de mi proyecto de magisterio
+		//para la asignautra de ticII
+		
 	}
 
 }
